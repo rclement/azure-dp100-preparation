@@ -18,6 +18,11 @@
 - [Créer et exploiter des solutions Machine Learning avec Azure Machine Learning](https://docs.microsoft.com/fr-fr/learn/paths/build-ai-solutions-with-azure-ml-service/) (14 Modules, ~10h30)
 - [Appliquer la science des données avec Azure Databricks](https://docs.microsoft.com/fr-fr/learn/paths/perform-data-science-azure-databricks/) (12 Modules, ~8h30)
 
+**Attention** :
+
+- Le 15e module du parcours 3 est uniquement référencé en anglais !
+- Pour y accéder en Français : https://docs.microsoft.com/fr-fr/learn/modules/azure-machine-learning-security/
+
 ### Exercices Azure Machine Learning :
 
 - [Site web](https://microsoftlearning.github.io/mslearn-dp100/)
