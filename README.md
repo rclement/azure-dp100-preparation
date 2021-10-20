@@ -23,6 +23,11 @@
 - [Site web](https://microsoftlearning.github.io/mslearn-dp100/)
 - [GitHub Lab files](https://github.com/MicrosoftLearning/mslearn-dp100)
 
+### DP-090: Implementing a Machine Learning Solution with Microsoft Azure Databricks
+
+- [Site web](https://microsoftlearning.github.io/dp-090-databricks-ml/)
+- [GitHub Lab files](https://github.com/MicrosoftLearning/dp-090-databricks-ml)
+
 ### Autres ressources
 
 - [GitHub Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning/blob/master/topics/certifications/dp-100.md)
