@@ -4,8 +4,18 @@
 
 ## Certification Azure DP100
 
-- [Certification Azure DP100](https://docs.microsoft.com/fr-fr/learn/certifications/exams/dp-100)
-- [Compétences mesurées](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA)
+[Site officiel de certification](https://docs.microsoft.com/fr-fr/learn/certifications/exams/dp-100)
+
+## Compétences mesurées
+
+Le contenu de cet examen a été mis à jour le 20 mai 2021.
+
+- Gérer les ressources Azure pour l'apprentissage automatique (25–30%)
+- Exécuter des expériences et former les modèles (20-25%)
+- Déployer et rendre opérationnelles les solutions d'apprentissage automatique (35–40%)
+- Mettre en oeuvre un apprentissage automatique responsable (5–10%)
+
+[Référentiel de compétences mésurées](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA)
 
 ## Support pédagogique
 
@@ -23,7 +33,7 @@
 - Le 15e module du parcours 3 est uniquement référencé en anglais !
 - Pour y accéder en Français : https://docs.microsoft.com/fr-fr/learn/modules/azure-machine-learning-security/
 
-### Exercices Azure Machine Learning :
+### Exercices Azure Machine Learning
 
 - [Site web](https://microsoftlearning.github.io/mslearn-dp100/)
 - [GitHub Lab files](https://github.com/MicrosoftLearning/mslearn-dp100)
